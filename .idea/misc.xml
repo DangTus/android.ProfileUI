@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/drawable/follow_button_background.xml" value="0.2545" />
         <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/drawable/gradient_background.xml" value="0.2545" />
-        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/drawable/hehe.xml" value="0.2555" />
+        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2555" />
+        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/drawable/ic_baseline_forum_24.xml" value="0.2555" />
+        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/drawable/ic_baseline_group_add_24.xml" value="0.2555" />
+        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.2555" />
+        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/TU/HOC TAP/122/Android/ProfileUI/app/src/main/res/layout/activity_main.xml" value="0.4" />
       </map>
     </option>
   </component>
